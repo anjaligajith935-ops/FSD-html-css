@@ -16,3 +16,26 @@
             color: cadetblue;
             text-align:center ;
         }
+        img {
+                width: 250px;
+                height: 250px;
+                border-top-left-radius: 50%;
+                border-bottom-right-radius: 50%;
+        }
+        h3 {
+             font-family: "Roboto Condensed", sans-serif;
+             font-weight: 400;
+        }
+         p {
+                font-family: "IBM Plex Mono", monospace;
+                line-height: 25px;
+             }
+        
+        .card {
+            border: 1px solid #00a56d;
+            padding: 15px 20px 25px 30px ;
+            margin: 15px;
+            width: 250px;
+            border-radius: 50px;
+            background-color: rgb(155, 156, 158);
+        }
